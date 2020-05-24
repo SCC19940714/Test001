@@ -15,5 +15,9 @@ public class HelloWorld {
         return "aa";
     }
 
+    private static void test1(){
+        System.out.println("ssss");
+    }
+
 
 }
