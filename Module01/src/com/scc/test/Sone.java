@@ -11,6 +11,6 @@ package com.scc.test;
  */
 public class Sone {
     public static void main(String[] args) {
-        System.out.println("dsadsa");
+        System.out.println("dsadsadsadsadsdsa");
     }
 }
